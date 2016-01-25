@@ -18,10 +18,10 @@ This specific project intends to outline some of the ways in which text analysis
 
 ###Texts 
 
-*The Vampyre* by John Polidori (1819)
-*Carmilla* by Joseph Sheridan LeFanu (1871)
-*Varney the Vampire* by James Malcolm Rymer & Thomas Peckett Prest
-*Dracula* by Bram Stoker (1897)
+* *The Vampyre* by John Polidori (1819)
+* *Carmilla* by Joseph Sheridan LeFanu (1871)
+* *Varney the Vampire* by James Malcolm Rymer & Thomas Peckett Prest
+* *Dracula* by Bram Stoker (1897)
  
 ##Tools 
 
@@ -80,7 +80,7 @@ When these two techniques of analyzing the word “blood” are put together, it
 
 ###Wife: 
 
-![image 6)(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%206.png?raw=true)
+![image 6](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%206.png?raw=true)
 
 Collocates of the word wife, though I have scrolled down a bit from the top to view slightly lower ranked collocates. The general consensus of collocates are words that have to do with innocence and chastity - feeding into the angel of the house motif. Interestingly, these words de-sexualize the figure of the wife through terms like *elderly* and *trusting.*
 
